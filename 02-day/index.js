@@ -60,16 +60,16 @@
 // if (a >= 10 || b <= 12) {
 //      console.log("you are eligible");
 // }
-//  Task 13:
-let A = 10
-if(!A >= 12){
-     console.log("you are not eligible");
-}
-//  Activity 5: Ternary operators
-//  Task 14:
-let z = 100;
-let y = 50;
-y = (z == 100)? "true" : "false";
-console.log(y);
+// //  Task 13:
+// let A = 10
+// if(!A >= 12){
+//      console.log("you are not eligible");
+// }
+// //  Activity 5: Ternary operators
+// //  Task 14:
+// let z = 100;
+// let y = 50;
+// y = (z == 100)? "true" : "false";
+// console.log(y);
 
 
